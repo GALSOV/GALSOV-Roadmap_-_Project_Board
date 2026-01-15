@@ -18,20 +18,19 @@ The engine repository is currently **private** while v0.1 is being implemented f
 - Determinism-first: same seed → same galaxy → same TurnTrace
 
 ## Roadmap / Project Board
-- Project Board: (paste your GitHub Project link here once created)
-- Milestones: (paste link)
-- Devlog: (paste your galsov.com link)
+- Project Board: [@GALSOV’s Public v0.1 Roadmap](https://github.com/users/GALSOV/projects/4)
+- Milestones: (not published yet — tracked via the Project board for now)
+- Devlog: https://galsov.com/devlog/
 
 ## How to follow / get involved
-- Use **Issues** for: bugs found in public builds, feature requests, or discussion.
-- Please don’t post decompiled code, proprietary assets, or anything that looks like source leakage.
+- Use **Issues** for: feature requests, discussion, and (later) bugs found in public builds.
+- Please don’t post decompiled code, extracted assets, or anything that looks like source leakage.
 
 ## Contact
-- experiment@galsov.com (or whatever contact you want public)
+- experiment@galsov.com
 
 ## Contributing
 Please read: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License / Permissions
 See: [LICENSE.md](LICENSE.md)
-
