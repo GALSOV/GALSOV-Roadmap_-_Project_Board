@@ -29,5 +29,9 @@ The engine repository is currently **private** while v0.1 is being implemented f
 ## Contact
 - experiment@galsov.com (or whatever contact you want public)
 
+## Contributing
+Please read: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## License / Permissions
-See LICENSE (this repo is not open-source).
+See: [LICENSE.md](LICENSE.md)
+
