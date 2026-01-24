@@ -6,6 +6,8 @@ This repository is **roadmap-only**:
 - ✅ Roadmap / milestones / Kanban board
 - ✅ Design notes that are safe to share
 - ✅ Devlog links, screenshots, progress updates
+> [!IMPORTANT]
+> Early milestones are foundation-heavy (determinism, TurnTrace, turn resolution). Expect engineering progress first; visuals come later.
 - ❌ No engine source code
 - ❌ No production game assets
 - ❌ No build pipeline secrets / keys / internal tooling
